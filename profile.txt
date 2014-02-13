@@ -6,3 +6,7 @@ Ken : Tiba
 eng 33
 math 333
 kokugo2222
+
+imamade 50
+konki 20
+raiki 20

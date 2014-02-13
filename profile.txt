@@ -2,3 +2,7 @@ name : Masato Suzuki
 
 age :20
 Ken : Tiba
+
+imamade 50
+konki 20
+raiki 20

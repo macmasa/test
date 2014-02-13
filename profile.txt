@@ -2,3 +2,7 @@ name : Masato Suzuki
 
 age :20
 Ken : Tiba
+
+eng 33
+math 333
+kokugo2222

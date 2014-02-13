@@ -1,1 +1,4 @@
 name : Masato Suzuki
+
+age :20
+Ken : Tiba
